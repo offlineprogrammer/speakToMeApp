@@ -1,0 +1,7 @@
+{
+  "name": "speakToMeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
